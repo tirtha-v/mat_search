@@ -8,6 +8,7 @@ jobs:
     steps:      
       - uses: actions/checkout@v4
       - run: |
+          pip install mp-api
           pip install black
           black --check .
           pip install pytest
