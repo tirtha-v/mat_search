@@ -1,4 +1,4 @@
-
+[![Test job](https://github.com/tirtha-v/mat_search/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/tirtha-v/mat_search/actions/workflows/my-workflow.yaml)
 
 ## Overview
 The package searches for materials given the properties of the materials from the Materials Project platform. It requires an API key to access the Materials Project Database. The package allows users to specify various properties of the materials to search for.
